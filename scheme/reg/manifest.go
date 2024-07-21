@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strconv"
 
+	"github.com/Sirupsen/logrus"
 	"github.com/opencontainers/go-digest"
-	"github.com/sirupsen/logrus"
 
 	"github.com/regclient/regclient/internal/limitread"
 	"github.com/regclient/regclient/internal/reghttp"

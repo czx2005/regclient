@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/spf13/cobra"
 
 	"github.com/regclient/regclient"

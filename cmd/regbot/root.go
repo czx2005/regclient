@@ -5,8 +5,8 @@ import (
 	"os"
 	"sync"
 
+	"github.com/Sirupsen/logrus"
 	"github.com/robfig/cron/v3"
-	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
 	"github.com/regclient/regclient"

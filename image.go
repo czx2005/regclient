@@ -18,8 +18,8 @@ import (
 	_ "crypto/sha256"
 	_ "crypto/sha512"
 
+	"github.com/Sirupsen/logrus"
 	digest "github.com/opencontainers/go-digest"
-	"github.com/sirupsen/logrus"
 
 	"github.com/regclient/regclient/pkg/archive"
 	"github.com/regclient/regclient/scheme"

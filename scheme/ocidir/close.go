@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	"github.com/regclient/regclient/types/manifest"
 	"github.com/regclient/regclient/types/ref"

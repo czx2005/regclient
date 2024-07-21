@@ -4,7 +4,7 @@ package sandbox
 import (
 	"context"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	lua "github.com/yuin/gopher-lua"
 
 	"github.com/regclient/regclient"

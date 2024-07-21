@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	"github.com/regclient/regclient/types/blob"
 	"github.com/regclient/regclient/types/descriptor"

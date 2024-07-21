@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	"github.com/regclient/regclient/internal/throttle"
 	"github.com/regclient/regclient/types/descriptor"

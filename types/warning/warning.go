@@ -5,7 +5,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 type contextKey string

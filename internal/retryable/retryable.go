@@ -21,8 +21,8 @@ import (
 	"net/url"
 	"time"
 
+	"github.com/Sirupsen/logrus"
 	digest "github.com/opencontainers/go-digest"
-	"github.com/sirupsen/logrus"
 )
 
 // Retryable is used to create requests with built in retry capabilities

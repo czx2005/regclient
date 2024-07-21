@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Sirupsen/logrus"
 	"github.com/olareg/olareg"
 	oConfig "github.com/olareg/olareg/config"
 	"github.com/opencontainers/go-digest"
-	"github.com/sirupsen/logrus"
 
 	"github.com/regclient/regclient/config"
 	"github.com/regclient/regclient/internal/reqresp"

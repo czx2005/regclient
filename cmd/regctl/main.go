@@ -8,7 +8,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	"github.com/regclient/regclient/internal/godbg"
 )
